@@ -9,4 +9,4 @@ Through the collection of  information from different tests, the data will deter
 + Is the correct level of assistance such as prompting or physical assistance being used?
 + Does the learner need to go back to previous settings for more assistance?
 + PECS one
-+ Has the therapist completed the PECS training website, see Pyramid Educational Consultants™ website for training opportunities at #http://www.pecsusa.com.
++ Has the therapist completed the PECS training website, see Pyramid Educational Consultants™ website for training opportunities at # http://www.pecsusa.com.
