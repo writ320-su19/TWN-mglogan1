@@ -9,4 +9,7 @@ Through the collection of  information from different tests, the data will deter
 + Is the correct level of assistance such as prompting or physical assistance being used?
 + Does the learner need to go back to previous settings for more assistance?
 + PECS one
-+ Has the therapist completed the PECS training website, see Pyramid Educational Consultants™ website for training opportunities at # http://www.pecsusa.com.
++ Has the therapist completed the PECS training website, see Pyramid Educational Consultants™ website for training opportunities at http://www.pecsusa.com.
+If all of these issues have been addressed and the learner with Austism Spectrum Disorder (ASD) does not show progress, consider selecting a different evidence-based practices to use with a learner with ASD. 
+
+Source: https://afirm.fpg.unc.edu/sites/afirm.fpg.unc.edu/files/imce/resources/PECS%20Step-by-Step.pdf, section 3.2 Determine Next Steps based on Learner Progress.
